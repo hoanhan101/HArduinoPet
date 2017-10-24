@@ -14,8 +14,8 @@ This is the video that I document when building this pet: [Youtube](https://yout
 
 ## Difficulties:
 1. 3D print is not smooth enough to fit the screws so I use the hot glue instead.
-2. Soldering, wiring and putting thing together in a small enclosure is hard because it is very easy to break the connection. Therefore, I have to solder and come up with strategies to make sure the connection is strong enough inside.
-3. The algorithms and whole code itself are pretty complex so I need to refactor everything for scalable purpose in the future.
+2. Soldering, wiring and putting thing together in a small enclosure is hard because it is very easy to break the connection.
+3. The author's source code is pretty complex so I need to refactor everything for scalable purpose in the future.
 
 ## Future plan:
 1. Build up a real robots with other movable body parts.
